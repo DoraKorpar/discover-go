@@ -1,6 +1,6 @@
 package main
 
-type OMDB struct {
+type MoviesOMDB struct {
 	Title      string `json:"Title"`
 	Year       string `json:"Year"`
 	Rated      string `json:"Rated"`
